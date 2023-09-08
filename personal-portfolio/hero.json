@@ -1,0 +1,35 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "title": "Gajendra Singh",
+      "description": " I'm a Full Stack Web Developer from India",
+      "profile":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pQdQZZItMNz6HlQSyv7uT4vzLCkmcVg-IlrThqAoNw&s"
+    }
+  ],
+
+  "services": [
+  { "title": "Web Developer", "description": "Web Developer Services" ,"image":"https://m.media-amazon.com/images/I/719wJagn4QL._AC_UF1000,1000_QL80_.jpg"},
+  { "title": "FullStack Developer", "description": "FullStack Developer services","image":"https://m.media-amazon.com/images/I/719wJagn4QL._AC_UF1000,1000_QL80_.jpg"},
+  { "title": "Software Developer", "description": "Software Developer Services","image":"https://m.media-amazon.com/images/I/719wJagn4QL._AC_UF1000,1000_QL80_.jpg"},
+  { "title": "AI & ML Developer", "description": "AI & ML Developer Services","image":"https://m.media-amazon.com/images/I/719wJagn4QL._AC_UF1000,1000_QL80_.jpg"},
+  { "title": "React Developer", "description": "React Developer Services","image":"https://m.media-amazon.com/images/I/719wJagn4QL._AC_UF1000,1000_QL80_.jpg"},
+  { "title": "Angular Developer", "description": "Angular Developer Services","image":"https://m.media-amazon.com/images/I/719wJagn4QL._AC_UF1000,1000_QL80_.jpg"}
+  ],
+
+  "about": [
+    {"birthday":"Aug 14,2000" ,
+    "location":"Indore" ,
+    "education":"MCA FromMedicaps University" ,
+    "profile":"Software Developer" ,
+    "phoneno":"7828203667",
+    "email":"rgajendrar@gmail.com" ,
+    "degree":"Master",
+    "Skill":"React and Java Script"}
+    ],
+
+    "contact":[{
+     
+    }]
+}
+
